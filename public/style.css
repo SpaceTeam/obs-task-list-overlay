@@ -1,5 +1,5 @@
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Montserrat, Helvetica, Arial, sans-serif;
   font-size: 24px;
   color: #fff;
   margin: 0;
@@ -69,12 +69,12 @@ body {
 .task-list-wrapper {
   background-color: rgba(0, 0, 0, 0.5);
   margin: 2px 0 20px;
-  width: 320px;
+  width: 360px;
 }
 
 .task-list {
-  margin: 5px 0;
-  padding: 20px 0;
+  margin: 3px 0;
+  padding: 3px 0;
   list-style-type: none;
 }
 
